@@ -13,3 +13,5 @@ Array
     Just using iteration and will ac.
 ##### 26. Remove Duplicates from Sorted Array
     Please consider the case that input is null. Using nums.empty() and return {} will be done.
+##### 27. Remove Element
+    A very clever method. Using a index and just find the different number and replace it.
