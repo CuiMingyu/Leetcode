@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Cui on 2020/1/13.
-//
+//  More details in README.md
 
 class Solution {
 public:
