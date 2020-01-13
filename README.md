@@ -4,6 +4,25 @@ first round is about 1-50 easy, medium in different classes.
 
 ## Content
 * [Array](#Array)
+* [String](#String)
+* [Math](#Math)
+* [Bit Manipulation](#BitManipulation)
+* [Two Pointers](#TwoPointers)
+* [Linked List](#LinkedList)
+* [Stack](#Stack)
+* [Queue](#Queue)
+* [Sort](#Sort)
+* [Heap](#Heap)
+* [DFS](#DFS)
+* [BFS](#BFS)
+* [Sliding Window](#SlidingWindow)
+* [Backtracking](#Backtracking)
+* [Greedy](#Greedy)
+* [DP](#DP)
+* [Tree](#Tree)
+* [Hash Table](#HashTable)
+* [Binary Search Tree](#BinarySearchTree)
+
 
 
 Array
