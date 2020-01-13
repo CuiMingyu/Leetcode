@@ -3,7 +3,7 @@ record of my leetcode
 first round is about 1-50 easy, medium in different classes.
 
 ## Content
-*[Array](#Array)
+* [Array](#Array)
 
 
 Array
