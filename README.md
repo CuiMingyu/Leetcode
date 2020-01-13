@@ -15,3 +15,5 @@ Array
     Please consider the case that input is null. Using nums.empty() and return {} will be done.
 ##### 27. Remove Element
     A very clever method. Using a index and just find the different number and replace it.
+##### 35.Search Insert Position
+    This question is very simple. All you need to do is to consider the boundary cases.
