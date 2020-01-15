@@ -36,3 +36,9 @@ Array
     A very clever method. Using a index and just find the different number and replace it.
 ##### 35.Search Insert Position
     This question is very simple. All you need to do is to consider the boundary cases.
+
+String
+------
+#### Easy
+##### 13. Roman to Integer
+    Using a different thinking angle. From left to right not right to left. Try to using data structure like unordered_map.
