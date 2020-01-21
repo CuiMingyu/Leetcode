@@ -42,3 +42,5 @@ String
 #### Easy
 ##### 13. Roman to Integer
     Using a different thinking angle. From left to right not right to left. Try to using data structure like unordered_map.
+##### 14. Longest Common Prefix
+    This is a very simple question.
