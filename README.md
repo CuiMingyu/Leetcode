@@ -44,3 +44,5 @@ String
     Using a different thinking angle. From left to right not right to left. Try to using data structure like unordered_map.
 ##### 14. Longest Common Prefix
     This is a very simple question.
+##### 20. Valid Parentheses
+    Using stack and switch to solve it. Remember stack.pop() and stack.top().
