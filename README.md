@@ -48,3 +48,5 @@ String
     Using stack and switch to solve it. Remember stack.pop() and stack.top().
 ##### 28. Implement strStr()
     KMP!!!! Please figure out how to use KMP
+##### 38. Count and Say
+    Tips: How to count iterately and check equal continuely.  Using while(i + 1 < res.size() && res[i] == res[i + 1]).  to_string() to change int into string. 
