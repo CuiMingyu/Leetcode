@@ -46,3 +46,5 @@ String
     This is a very simple question.
 ##### 20. Valid Parentheses
     Using stack and switch to solve it. Remember stack.pop() and stack.top().
+##### 28. Implement strStr()
+    KMP!!!! Please figure out how to use KMP
