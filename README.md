@@ -58,3 +58,13 @@ String
     Tips: How to count iterately and check equal continuely.  
     Using while(i + 1 < res.size() && res[i] == res[i + 1]).   
     to_string() to change int into string. 
+
+Math
+------
+#### Easy
+##### 7. Reverse Integer
+    Do not always use x divide 10.  
+    Please use res * 10 from zero to the number you want.
+    INT_MAX is about 2^31.  
+    INT_MIN is about 2^31.
+    Pay attention to the remand, using long not int.
