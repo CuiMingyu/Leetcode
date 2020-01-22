@@ -68,3 +68,6 @@ Math
     INT_MAX is about 2^31.  
     INT_MIN is about 2^31.
     Pay attention to the remand, using long not int.
+##### 9. Palindrome Number
+    A same type question of 7.  
+    Please notice input x is changing with my algorithm.
