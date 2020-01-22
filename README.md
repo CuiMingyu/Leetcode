@@ -71,3 +71,13 @@ Math
 ##### 9. Palindrome Number
     A same type question of 7.  
     Please notice input x is changing with my algorithm.
+
+Linked List
+------
+#### Easy
+##### 21. Merge Two Sorted Lists
+    This is a basic question.  
+    But you need to figure out Head and Temp pointer of a list.
+    Temp pointer is always changing.
+    Head pointer is the head of a list.
+    Please check books to figure them out.
