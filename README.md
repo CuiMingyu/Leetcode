@@ -81,3 +81,9 @@ Linked List
     Temp pointer is always changing.
     Head pointer is the head of a list.
     Please check books to figure them out.
+#### Medium
+##### 2. Add Two Numbers
+    There are lots of things need to be consider.
+    Do not need to calculate the length of each list.
+    Use ? : to compare and set zero value.
+    Remember the setting of carry.
