@@ -58,6 +58,25 @@ String
     Tips: How to count iterately and check equal continuely.  
     Using while(i + 1 < res.size() && res[i] == res[i + 1]).   
     to_string() to change int into string. 
+##### 3.Longest Substring Without Repeating Characters
+    "dict" is used to keep tracking the char in the input string you read  
+    every time. 
+    start indicates the position of starting position of the substring. 
+    At the beginning, it initializes all value in "dict" to -1.  
+    Then in the for loop, it scans every char in the string. 
+    If the char in the "dict"'s value is larger than "start". 
+    It means it already in the substring. 
+    You should change the start position of substring to the repeat 
+    position and start a new count. 
+    "maxLen" records the maximum length of substring you have so far.
+    For example, the input is "aba", you check dict[s[0]], which is 
+    dict[97] is -1. Therefore, you can change the dict[97] to 0. 
+    In this way, you keep recording the string char's position in the 
+    dict. When you meet the second "a" in the input, dict[97] is 0 and 
+    larger than start, which is -1. Then you change start value to 0. When 
+    you apply length function ( i - start), you calculate the new 
+    substring length, which didn't contain the substring before the first 
+    "a".
 
 Math
 ------
